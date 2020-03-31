@@ -1,0 +1,7 @@
+friends = ['Jim', 'Pam', 'Kevin', 'Mike', "Karen"]
+message = ", how are you?"
+print(f"{friends[0]}{message}")
+print(f"{friends[1]}{message}")
+print(f"{friends[2]}{message}")
+print(f"{friends[3]}{message}")
+print(f"{friends[-1]}{message}")
